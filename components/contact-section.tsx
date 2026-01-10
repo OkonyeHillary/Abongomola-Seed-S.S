@@ -11,7 +11,7 @@ export function ContactSection() {
           <div>
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-6">Get in Touch</h2>
             <p className="text-muted-foreground mb-10 text-pretty">
-              Have questions about admissions or our curriculum? We'd love to hear from you. Our team is here to help
+              Have questions about admissions or our curriculum? We would love to hear from you. Our team is here to help
               you through every step of the enrollment process.
             </p>
             <div className="space-y-6">
